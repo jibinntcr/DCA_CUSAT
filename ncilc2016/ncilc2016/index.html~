@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from www.cikm-2015.org/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Oct 2015 09:32:26 GMT -->
+<head>
+<marquee title="NCILC-2016"
+            ONMOUSEOVER="this.stop();"
+            ONMOUSEOUT="this.start();">
+         <H3>The Conference, NCILC-2016 has been postponed to 26th & 27th of February, 2016.</H3>
+         
+      </MARQUEE>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<title>Welcome | NCILC 2016</title>
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+     <script type="text/javascript" src="js/jquery.countdown.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/superfish.css">
+  <link rel="stylesheet" href="css/superfish-vertical.css">
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43196972-23', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <style>
+ 
+        
+ 
+     
+    
+    </style>
+    
+    
+    
+    
+</head>
+<body>
+
+<!-- top -->
+<div id="top">
+<div class="container">
+     <div id="clock-m"></div>
+</div>
+</div>
+<!-- end top -->
+
+<div class="container">
+
+<!-- banner -->
+<div id="banner">
+<div id="social"><a href="https://www.facebook.com/pages/CIKM/800642040013231" target="_blank" style="color:#3A5795;"><i class="fa fa-facebook-official fa-3x"></i></a> <a href="https://twitter.com/cikm2015" target="_blank" style="color:#55ACEE;"><i class="fa fa-twitter-square fa-3x"></i></a></div>
+<img src="img/header/header.png" id="logo">
+<img src="img/header/home.png" id="image">
+</div>
+<!-- end banner -->
+
+<!-- nav -->
+<div id="nav">
+<ul class="sf-menu sf-vertical" >
+   <li  > <a href="index.html" class="link">HOME </a></li>
+    <li><a class="link">CALL FOR PAPERS</a>
+        <ul>
+          <li><a href="PaperSub.html" class="link">Paper Submission</a>  </li>
+           <li><a href="AcceptedPapers.html" class="link">Accepted Papers</a> </li>
+        
+        </ul>
+          
+       
+    </li>
+    
+    <li><a href="OrganizingCommittee.html" class="link">ORGANIZATION</a>
+    </li>
+    <li><a href="Sponsors.html" class="link">SPONSORS</a></li>
+    <li><a href="ProgSche.html" class="link">PROGRAM SCHEDULE</a>
+    </li>
+    <li><a href="InvitedSpeakers.html" class="link">KEYNOTE SPEAKERS</a>
+    </li>
+    <li><a href="ImportantDates.html" class="link">IMPORTANT DATES</a>
+    </li>
+     <li><a class="link">REGISTRATION</a>
+        <ul>
+        <li> <a href="RegistrationFee.html" class="link">Registration Fees</a></li>
+            <li><a href="Accommodation.html" class="link">Accommodation</a> </li>
+        </ul>
+         
+       
+    </li>
+    <li><a class="link">CONTACT US</a>
+        <ul>
+        <li> <a href="LocMap.html" class="link">Location Map</a></li>
+            <li><a href="ContactAdd.html" class="link">Contact Address</a> </li>
+        </ul>
+         
+       
+    </li>
+     <li><a href="AboutUs.html" class="link">ABOUT US</a>
+
+         <a target="a" href="https://www.google.co.in/maps/place/Department+of+Computer+Application/@10.0461632,76.3241593,17z/data=!3m1!4b1!4m2!3m1!1s0x3b080c30d4ca4cff:0x6af14597a4b11a2a"  class="button_eoi " style="background-color:#eb5833"><u>Venue</u><br><span style="font-size:12px">Department Of Computer Applications, CUSAT</span> <i class="fa fa-pencil"></i></a>
+
+    
+    
+</ul>
+
+</div>
+
+
+<!-- end nav -->
+
+<!-- content -->
+<div id="content_small">
+<div id="title">
+<h1>Welcome</h1>
+</div>
+
+<div class="inner">
+
+<p>We have successfully conducted National Conference on Indian Language Computing for the last 5 
+
+years. Several eminent persons presented papers on different topics related to Indian Language 
+
+Computing. Computing in Indian Languages and development of technologies for Indian Language 
+
+Understanding has gained much momentum recently. India is trying to develop technologies to reach its 
+
+masses in their own language. The conference aims at bringing together various people working in the 
+
+area of Indian language computing, like Machine Translation, Transliteration, Indian Language 
+
+Understanding, Character Recognition, Speech Recognition and similar areas. This conference is 
+
+organized by Department Of Computer Applications, Cochin University of Science and Technology in 
+
+technical collaboration with Computer Society of India Division III. Original research articles are invited 
+
+to be presented in the conference. The papers should be organized so as to accommodate abstract, 
+
+introduction, state-of-the-art, objective, used methodology, obtained results and references.</p>
+
+<h2>We look forward to seeing you in Kochi in January 2016.</h2>
+
+</div>
+</div>
+<!-- end content -->
+
+<!-- side -->
+<div id="side">
+
+<h2>Our Sponsors</h2>
+
+<img src="img/sponsors/UGC.png" style="margin:18px auto;" width="160" border="0" />
+    <h4 style="text-align:center">UGC India</h4>
+
+<hr style=" height:2px" />
+
+<img src="img/sponsors/CSIR.png" style="margin:18px auto;" width="160" border="0" />
+    <h4 style="text-align:center">CSIR India</h4>
+
+<hr style=" height:2px" />
+
+<img src="img/sponsors/KSCSTE.jpg" style="margin:18px auto;" width="160" border="0" />
+    <h4 style="text-align:center">KSCSTE</h4>
+
+    
+    
+<!--  <h2>In Technical Collaboration with</h2>  
+    <img src="img/sponsors/CSI.png" style="margin:18px auto;" width="160" border="0" />
+    <h4 style="text-align:center">CSI</h4>
+   --> 
+</div>
+<!-- end side -->
+
+
+
+<!-- footer -->
+<div id="footer">
+<div class="inner">
+<strong>6th National Conference on Indian Language Computing (NCILC-2016)</strong><br>
+16th & 17th January, 2016 in Cochin University Of Science And Technology (CUSAT), Kerala</div>
+</div>
+<!-- end footer -->
+<div style="text-align:center">
+
+<img src="http://hitwebcounter.com/counter/counter.php?page=6214247&style=0006&nbdigits=5&type=ip&initCount=0" title="URL Counter" Alt="URL Counter"   border="0" >
+
+</div> 
+
+</div>
+
+<!-- SCRIPTS -->
+
+<script src="js/hoverIntent.js"></script>
+<script src="js/superfish.js"></script>
+
+<!-- initialise Superfish -->
+<script>
+
+	jQuery(document).ready(function(){
+		jQuery('ul.sf-menu').superfish({
+			animation: {height:'show'},	// slide-down effect without fade-in
+			delay:		 1200			// 1.2 second delay on mouseout
+		});
+	});
+
+</script>
+    	  <script type="text/javascript">
+	         $( document ).ready(function(){
+			 
+			         $(".button-collapse").sideNav();
+					  $('ul.tabs').tabs();
+			 
+			 });
+			 
+			 
+	var i=0;
+
+		var myVar=setInterval(function(){myTimer()},1000);
+
+function myTimer() {	 
+	  $('#clock-m').countdown('2016/02/26 10:00:00', function(event) {
+			  
+			
+   var $this = $(this).html(event.strftime('<span>%w</span><span> weeks &nbsp;&nbsp;</span>'
+     + '<span>%d</span><span> days  &nbsp;&nbsp;</span>'
+     + '<span>%H</span><span >hr  &nbsp;&nbsp;</span>'
+     + '<span>%M</span><span> min  &nbsp;&nbsp;</span>'
+     + '<span>%S</span><span> sec  &nbsp;&nbsp;</span> until the conference.'
+	 
+	 ));
+ });
+ 
+			 
+}			 
+			 
+			 
+			 
+			 
+	   
+	  </script>
+
+</body>
+
+
+</html>

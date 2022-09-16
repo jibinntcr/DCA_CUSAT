@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Summer School on Deep Learning</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<header>
+  <nav class="main-nav">
+    <ul>
+      <li>
+        <ul>
+          <li><a href="index.html" class="active">about</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>
+<section id="video" class="home">  
+  <h1>Summer School on Deep Learning</h1>
+  <h2><b>20 - 24 May 2019</b></h2>
+  <br>
+  <br>
+</section>
+<section id="main-content">
+  <br>
+  <br>
+  <br>
+  <div class="columns features">
+    <h1><b> Summer School on Deep Learning </b></h1><br>
+    <p>Deep learning is a fast-growing field of Artificial Intelligence that enables computers to learn from experience and understand the world in terms of a hierarchy of concepts. Over the last few years, deep learning and neural networks have grown widely. Deep learning methods have dramatically improved the state-of-the-art in speech recognition, visual object recognition, object detection and many other domains such as drug discovery and genomics. Deep convolutional nets have brought about breakthroughs in processing images, video, speech and audio, whereas recurrent nets focuses on sequential data such as text and speech. The workshop sessions and hands-on will enable participants to understand the background theory and practices of ANNs and Deep Learning Architectures.</p>
+  </div>  
+  <div class="columns features">
+    <div class="one-third first">
+      <h3><b>Course Coverage</b></h3>
+      <p >The programme will cover the following topics:
+    <ul>
+      <li>Introduction to Artificial Neural Networks</li>
+      <li>Introduction to Deep Neural Networks</li>
+      <li>Convolutional Neural Networks</li>
+      <li>Recurrent Neural Networks and it's variants</li>
+      <li>Autoencoders and GAN</li>
+      <li>Pre-Trained Models</li>
+      <li>Recent Research Innovations in the field of Deeplearning</li>	
+    </ul> 
+    </p>
+    </div>
+    <div class="one-third">
+      <h3><b>Target Participants</b></h3>
+      <p> The workshop is intended for academicians, researchers, PG students, persons working in industry and R&amp;D organizations.</p>
+    </div>
+    <div class="one-third">
+      <h3><b>Registration Fees(Including 18% GST)</b></h3>
+	<p>
+	<table style="width:100%">
+	   <tr>
+		<th><b>Participants</b></th>
+		<th><b>CUSAT</b></th>
+		<th><b>Others</b></th>
+	   </tr>
+	   <tr>
+		<td>Industry</td>
+		<td> ---- </td>
+		<td>5900</td>
+	  </tr>
+	   <tr>
+		<td>Faculty</td>
+		<td>4720</td>
+		<td>5310</td>
+	  </tr>
+	   <tr>
+		<td>Research Scholars <b>/</b> PG Students</td>
+		<td>3540</td>
+		<td>4130</td>
+	  </tr>
+	</table>
+	</p>
+    </div>
+  <div class="text-intro">
+    <b>
+    <p>Venue:<br>Department of Computer Applications<br>Cochin University of Science and Technology</p><br><br>
+    </b>
+      <pre><a href="Brochure.pdf" class="more">Brochure</a>                          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKx-SS_v9L0InLmyP2-f-GJnXG2GGToyc6lpLOW2aMVkdsnw/viewform" class="more">Registeration</a></pre>
+  </div>
+</section>
+<footer>
+</footer>
+</body>
+</html>

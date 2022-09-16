@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from www.cikm-2015.org/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Oct 2015 09:32:26 GMT -->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<title>Welcome | NCILC 2016</title>
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+     <script type="text/javascript" src="js/jquery.countdown.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/superfish.css">
+  <link rel="stylesheet" href="css/superfish-vertical.css">
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43196972-23', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <style>
+
+    
+    </style>
+    
+    
+    
+    
+</head>
+<body>
+
+<!-- top -->
+<div id="top">
+<div class="container">
+     <div id="clock-m"></div>
+</div>
+</div>
+<!-- end top -->
+
+<div class="container">
+
+<!-- banner -->
+<div id="banner">
+
+<img src="img/header/header.png" id="logo">
+<img src="img/header/home.png" id="image">
+</div>
+<!-- end banner -->
+
+<!-- nav -->
+<div id="nav">
+<ul class="sf-menu sf-vertical" >
+   <li  > <a href="index.html" class="link">HOME </a></li>
+    <li><a class="link">CALL FOR PAPERS</a>
+        <ul>
+          <li><a href="PaperSub.html" class="link">Paper Submission</a>  </li>
+           <li><a href="AcceptedPapers.html" class="link">Accepted Papers</a> </li>
+        
+        </ul>
+          
+       
+    </li>
+    
+    <li><a href="OrganizingCommittee.html" class="link">ORGANIZATION</a>
+    </li>
+    <li><a href="Sponsors.html" class="link">SPONSORS</a></li>
+    <li><a href="ProgSche.html" class="link">PROGRAM SCHEDULE</a>
+    </li>
+    <li><a href="InvitedSpeakers.html" class="link">KEYNOTE SPEAKERS</a>
+    </li>
+    <li><a href="ImportantDates.html" class="link">IMPORTANT DATES</a>
+    </li>
+     <li><a class="link">REGISTRATION</a>
+        <ul>
+        <li> <a href="RegistrationFee.html" class="link">Registration Fees</a></li>
+            <li><a href="Accommodation.html" class="link">Accommodation</a> </li>
+        </ul>
+         
+       
+    </li>
+    <li><a class="link">CONTACT US</a>
+        <ul>
+        <li> <a href="LocMap.html" class="link">Location Map</a></li>
+            <li><a href="ContactAdd.html" class="link">Contact Address</a> </li>
+        </ul>
+         
+       
+    </li>
+    <li><a href="AboutUs.html" class="link">ABOUT US</a>
+
+
+    
+    
+</ul>
+
+
+</div>
+
+
+<!-- end nav -->
+
+<!-- content -->
+<div id="content_small">
+<div id="title">
+<h1>Paper Submission</h1>
+</div>
+
+<div class="inner">
+
+<p>NCILC-2016 invites original and unpublished papers contain contributions of theoretical, experimental or 
+
+application nature, or unique experience reports. Papers must be submitted within the stipulated time 
+
+and electronic submission in PDF is required. The page limit for a full-length paper is 6 pages.</p>
+    
+    
+    
+<h3>The areas of interest include, but are not limited to:</h3>
+<table>
+<tr>
+   <td>
+       <ul>
+           <li>
+Morphology
+</li>
+           <li>
+Syntax                   
+           </li><li>
+Semantics                
+ </li><li>
+Discourse 
+ </li><li>
+POS Tagging
+ </li><li>
+Parsing              
+ </li><li>
+Word Sense Disambiguation
+ </li><li>
+Machine Translation
+ </li><li>
+Statistical Machine Translation
+   </li><li>         Pragmatics
+ </li><li>
+Statistical Methods      
+ </li><li>
+Knowledge-based Methods  
+ </li><li>
+Annotated Corpora       
+ </li>    <li>
+Lexical Resources        
+ </li><li>
+Sentiment Analysis
+ </li>
+               
+<li>
+Machine Learning in NLP
+   </li>
+           </ul>
+   </td>  
+    
+<td>
+
+<ul>
+    
+<li>  
+    Deep Learning in NLP
+ </li><li>
+Automatic Text Summarization
+           </li>
+     <li>
+Semantic Processing
+ </li><li>
+Lexical Semantics
+ </li><li>
+Dialog Systems </li><li>
+Question Answering
+ </li><li>
+Paraphrasing
+ </li><li>
+Textual Entailment
+ </li><li>
+Character Recognition
+ </li><li>
+Phonology 
+ </li><li>
+Speech Corpora
+ </li><li>
+Speech Recognition
+ </li><li>
+Speech Synthesis
+ </li><li>
+NLP for Assistive Technologies
+ </li><li>
+Applying NLP on Domain Specific Data 
+     </li>
+    </ul>
+</td>    
+</tr>    
+</table>
+    
+    
+    <p>All papers that conform to submission guidelines will be peer reviewed and evaluated based on
+
+originality, technical and/or research content/depth, correctness, relevance to conference, 
+
+contributions, and readability. Acceptance of papers will be communicated to authors by email. 
+
+Accepted and presented papers will be published in the conference proceedings.  To be published in the 
+
+Proceedings, an author of an accepted paper is required to register for the conference at the full rate. 
+
+All accepted papers MUST be presented at the conference by one of the authors, or, if none of the 
+
+authors are able to attend, by a qualified surrogate.
+</p>
+   <!-- <br>
+Please see a <a href="download/Template.doc" target="" style="text-style:none" >sample paper</a>.-->
+Please see a <a href="download/Template.doc" target="" style="text-style:none" >sample paper</a>.
+<br>
+
+Easy Chair link for Paper submission
+
+<a target="_blank" style="text-decoration:none;" href="https://easychair.org/conferences/?conf=ncilc2016">
+
+<img align="center" src="img/logo/paper.png" /></a>    
+ 
+    <h3>Important Dates</h3>
+     <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_dates">
+  <tr>
+    <td>Last date for paper submission</td>
+    <td>20-01-2016</td>
+  </tr>
+  <tr>
+    <td>Intimation of acceptance</td>
+    <td>01-02-2016</td>
+  </tr>
+  <tr>
+    <td>Submission of camera ready paper  </td>
+    <td>10-02-2016</td>
+  </tr>
+</table>
+    
+  
+</div>
+</div>
+<!-- end content -->
+
+<!-- side -->
+<div id="side">
+
+<h2>Our Sponsors</h2>
+
+<img src="img/sponsors/UGC.png" style="margin:18px auto;" width="160" border="0" />
+    <h4 style="text-align:center">UGC India</h4>
+
+<hr style=" height:2px" />
+
+<img src="img/sponsors/CSIR.png" style="margin:18px auto;" width="160" border="0" />
+    <h4 style="text-align:center">CSIR India</h4>
+
+<!--<hr style=" height:2px" />
+
+<img src="img/sponsors/KSCSTE.jpg" style="margin:18px auto;" width="160" border="0" />
+    <h4 style="text-align:center">KSCSTE</h4>
+
+    
+    
+ <!-- <h2>In Technical Collaboration with</h2>  
+    <img src="img/sponsors/CSI.png" style="margin:18px auto;" width="160" border="0" />
+    <h4 style="text-align:center">CSI</h4>
+    -->
+</div>
+<!-- end side -->
+
+
+
+<!-- footer -->
+<div id="footer">
+<div class="inner">
+<strong>6th National Conference on Indian Language Computing (NCILC-2016)</strong><br>
+26th & 27th February, 2016 in Cochin University Of Science And Technology (CUSAT), Kerala</div>
+</div>
+<!-- end footer -->
+<div style="text-align:center">
+
+<img src="http://hitwebcounter.com/counter/counter.php?page=6214247&style=0006&nbdigits=5&type=ip&initCount=0" title="URL Counter" Alt="URL Counter"   border="0" >
+
+</div> 
+
+</div>
+
+<!-- SCRIPTS -->
+
+<script src="js/hoverIntent.js"></script>
+<script src="js/superfish.js"></script>
+
+<!-- initialise Superfish -->
+<script>
+
+	jQuery(document).ready(function(){
+		jQuery('ul.sf-menu').superfish({
+			animation: {height:'show'},	// slide-down effect without fade-in
+			delay:		 1200			// 1.2 second delay on mouseout
+		});
+	});
+
+</script>
+    	  <script type="text/javascript">
+	         $( document ).ready(function(){
+			 
+			         $(".button-collapse").sideNav();
+					  $('ul.tabs').tabs();
+			 
+			 });
+			 
+			 
+	var i=0;
+
+		var myVar=setInterval(function(){myTimer()},1000);
+
+function myTimer() {	 
+	  $('#clock-m').countdown('2016/02/26 09:00:00', function(event) {
+			  
+			
+   var $this = $(this).html(event.strftime('<span>%w</span><span> weeks &nbsp;&nbsp;</span>'
+     + '<span>%d</span><span> days  &nbsp;&nbsp;</span>'
+     + '<span>%H</span><span >hr  &nbsp;&nbsp;</span>'
+     + '<span>%M</span><span> min  &nbsp;&nbsp;</span>'
+     + '<span>%S</span><span> sec  &nbsp;&nbsp;</span> until the conference.'
+	 
+	 ));
+ });
+ 
+			 
+}			 
+			 
+			 
+			 
+			 
+	   
+	  </script>
+
+</body>
+
+
+</html>

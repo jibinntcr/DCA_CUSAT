@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Five Days Hands-on Workshop on Deep Learning</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<header>
+  <nav class="main-nav">
+    <ul>
+      <li>
+        <ul>
+          <li><a href="index.html" class="active">about</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>
+<section id="video" class="home">  
+  <h1>Deep Learning</h1>
+  <h2><b>19 - 23 February 2019</b></h2>
+  <br>
+  <br>
+</section>
+<section id="main-content">
+  <br>
+  <br>
+  <br>
+  <div class="columns features">
+    <h3><b>Five Days Hands-on Workshop on Deep Learning</b></h3><br>
+    <h2><b>Organized by, Data Science Research Laboratory, DCA, CUSAT</b></h2><br>
+    <p> Deep Learning is a subset of Machine Learning that achieves great power and flexibility by learning to represent the world as nested hierarchy of concepts, with each concept defined in relation to simpler concepts, and more abstract representations computed in terms of less abstract ones.The five day workshop is designed to provide hands-on training to developers, data scientists and researchers to tackle highly complex problems using deep learning. </p>
+  </div>  
+  <div class="columns features">
+    <div class="one-third first">
+      <h3>Course Coverage</h3>
+      <p>The programme will cover the following topics:
+    <ul>
+      <li>Python for Deep Learning</li>
+      <li>Introduction to Machine Learning </li>
+      <li>Building a Machine Learning model</li>
+      <li>Basic concepts of Artificial neural networks</li>
+      <li>Tensorflow basics</li>
+      <li>Introduction to Deep Learning</li>
+      <li>Convolutional Neural Networks</li>
+      <li>Recurrent Neural Networks</li>
+      <li>Other Deep Learning models</li>
+      <li>Developing Deep Learning models for solving problems in NLP, Computer Vision and Text Mining</li>
+    </ul> 
+    </p>
+    </div>
+    <div class="one-third">
+      <h3>Target Participants</h3>
+      <p> The workshop is intended for academicians, researchers, students and persons working in industry. R&amp;D organizations.</p>
+    </div>
+    <div class="one-third">
+      <h3>Registration Fees</h3>
+      <p><ul>
+        <li>Faculty : Rs. 5000</li>
+        <li>Industry/Research Organizations : Rs. 6000</li>
+        <li>Full-time Research Scholars/PG Students : Rs.3500</li>
+      </ul></p>
+    </div>
+  <div class="text-intro">
+    <b>
+    <p>Venue:<br>Department of Computer Applications<br>Cochin University of Science and Technology</p><br><br>
+    </b>
+      <pre><a href="Brochure.pdf" class="more">Brochure</a>                          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeorud2xCAqNUgmUhDzhNrMV03nCucTOFet1IFPj8JBUDAQOw/viewform1" class="more">Registration</a></pre>
+  </div>
+</section>
+<footer>
+</footer>
+</body>
+</html>
