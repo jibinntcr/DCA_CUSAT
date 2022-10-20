@@ -57,7 +57,7 @@ if (strlen($_SESSION['alogin']) == 0) {
                                     <div class="col-12 col-xl-4">
                                         <div class="justify-content-end d-flex">
                                             <div class="dropdown flex-md-grow-1 flex-xl-grow-0">
-                                                <button onclick="location.href = 'new-courses.php';" type="button" class="btn btn-success btn-icon-text">
+                                                <button onclick="location.href = 'new-blog.php';" type="button" class="btn btn-success">
                                                     <i class="icon-circle-plus"></i>
                                                     Create
                                                 </button>

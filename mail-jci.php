@@ -5,11 +5,11 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 if (isset($_POST['submit'])) {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $subject = $_POST['subject'];
-    $phone = $_POST['phone'];
-    $message = $_POST['message'];
+    $name = $_POST['name']; // Get Name value from HTML Form
+    $email = $_POST['email'];  // Get Email Value
+    $subject = $_POST['subject'];  // Get Subject
+    $phone = $_POST['phone'];  // Get Subject
+    $message = $_POST['message']; // Get Message Value
 
     $output = "<html>
 <body>
@@ -52,22 +52,18 @@ if (isset($_POST['submit'])) {
     $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com'; //your host
     $mail->SMTPAuth = true;
-    $mail->Username = ''; //SENDER MAIL ID
-    $mail->Password = ''; //PASSWORD
+    $mail->Username = 'apicsroomstudio@gmail.com';
+    $mail->Password = 'iiqnqkrrtpjfutdk';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->Port = 587;
     //Recipients
-    $mail->setFrom(''); //SENDER MAIL ID
-    $mail->addAddress(''); //RECIVER MAIL ID
+    $mail->setFrom('apicsroomstudio@gmail.com');
+    $mail->addAddress('jerryaksa97@gmail.com');
     //Content
     $mail->isHTML(true);
     $mail->Subject = $subject;
     $mail->Body = $body;
-    if ($mail->send()) {
-        echo '<script>alert("Form Submitted Successfully")</script>';
-        echo '<script>window.location = "contact.php";</script>';
-    } else {
-        echo '<script>alert("Something went wrong")</script>';
-        echo '<script>window.location = "contact.php";</script>';
-    }
+    $mail->send();
+    echo '<script>alert("An email has been sent to you with instructions on how to reset your password")</script>';
+    echo '<script>window.location = "contact.php";</script>';
 }

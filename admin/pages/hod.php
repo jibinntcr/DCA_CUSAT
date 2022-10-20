@@ -88,7 +88,7 @@ if (strlen($_SESSION['alogin']) == 0) {
                                                 $query->execute();
                                                 $results = $query->fetchAll(PDO::FETCH_OBJ);
                                                 $cnt = 1;
-                                                if ($query->rowCount() > 0) {
+                                                if ($query->rowCount() > 0) {       
                                                     foreach ($results as $result) {
                                                 ?>
                                                         <tr><?php

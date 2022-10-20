@@ -125,7 +125,7 @@ include('admin/includes/config.php');
                     <iframe class="position-relative rounded w-100 h-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.645178526911!2d76.32375311476514!3d10.04610989281956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080c30d4ca4cff%3A0x6af14597a4b11a2a!2sDepartment%20of%20Computer%20Applications!5e0!3m2!1sen!2sin!4v1651077849312!5m2!1sen!2sin" frameborder="0" style="min-height: 300px; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
                 <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
-                    <form action="mail.php" method="post">
+                    <form action="mail.php" method="post" enctype="multipart/form-data" autocomplete="off">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
@@ -158,7 +158,7 @@ include('admin/includes/config.php');
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
+                                <button class="btn btn-primary w-100 py-3" name="submit"  type="submit">Send Message</button>
                             </div>
                         </div>
                     </form>
