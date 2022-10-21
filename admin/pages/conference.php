@@ -82,7 +82,7 @@ if (strlen($_SESSION['alogin']) == 0) {
                                             </thead>
                                             <tbody>
                                                 <?php
-                                                $sql = "SELECT * from conference";
+                                                $sql = "SELECT * from conference ORDER BY year DESC,id DESC";
                                                 $query = $dbh->prepare($sql);
                                                 $query->execute();
                                                 $results = $query->fetchAll(PDO::FETCH_OBJ);

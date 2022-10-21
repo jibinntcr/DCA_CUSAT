@@ -71,7 +71,7 @@ include('admin/includes/config.php');
                 <div class="container-xxl py-5">
                     <div class="row g-4 justify-content-center">
                         <?php
-                        $sql = "SELECT * from workshop where status='1'";
+                        $sql = "SELECT * from workshop where status='1' ORDER BY year DESC,id DESC";
                         $query = $dbh->prepare($sql);
                         $query->execute();
                         $results = $query->fetchAll(PDO::FETCH_OBJ);

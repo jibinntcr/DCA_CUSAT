@@ -88,7 +88,7 @@ include('admin/includes/config.php');
                 <div class="col-lg-12 col-md-6">
                     <div class="row g-3">
                         <?php
-                        $sql = "SELECT * from techfest where status='1'";
+                        $sql = "SELECT * from techfest where status='1' ORDER BY year DESC,id DESC";
                         $query = $dbh->prepare($sql);
                         $query->execute();
                         $results = $query->fetchAll(PDO::FETCH_OBJ);

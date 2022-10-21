@@ -73,16 +73,17 @@ include('admin/includes/config.php');
                             <h6 class="section-title bg-white text-center text-primary px-3">Upcoming Conferences</h6>
                         </div>
 
-                        <?php
-                        $sql = "SELECT * from conference where status='1' and eventStatus='1'";
-                        $query = $dbh->prepare($sql);
-                        $query->execute();
-                        $results = $query->fetchAll(PDO::FETCH_OBJ);
-                        $cnt = 1;
-                        if ($query->rowCount() > 0) {
-                            foreach ($results as $result) {
-                        ?>
-                                <div class="row g-4 justify-content-center">
+
+                        <div class="row g-4 justify-content-center">
+                            <?php
+                            $sql = "SELECT * from conference where status='1' and eventStatus='1' ORDER BY year DESC,id DESC";
+                            $query = $dbh->prepare($sql);
+                            $query->execute();
+                            $results = $query->fetchAll(PDO::FETCH_OBJ);
+                            $cnt = 1;
+                            if ($query->rowCount() > 0) {
+                                foreach ($results as $result) {
+                            ?>
                                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                                         <div class="course-item bg-light">
                                             <div class="position-relative overflow-hidden">
@@ -102,10 +103,11 @@ include('admin/includes/config.php');
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                        <?php }
-                        }
-                        ?>
+                            <?php }
+                            }
+                            ?>
+                        </div>
+
 
 
 
@@ -119,16 +121,17 @@ include('admin/includes/config.php');
                             <h6 class="section-title bg-white text-center text-primary px-3">Conferences</h6>
                         </div>
 
-                        <?php
-                        $sql = "SELECT * from conference where status='1' and eventStatus='0'";
-                        $query = $dbh->prepare($sql);
-                        $query->execute();
-                        $results = $query->fetchAll(PDO::FETCH_OBJ);
-                        $cnt = 1;
-                        if ($query->rowCount() > 0) {
-                            foreach ($results as $result) {
-                        ?>
-                                <div class="row g-4 justify-content-center">
+
+                        <div class="row g-4 justify-content-center">
+                            <?php
+                            $sql = "SELECT * from conference where status='1' and eventStatus='0' ORDER BY year DESC,id DESC";
+                            $query = $dbh->prepare($sql);
+                            $query->execute();
+                            $results = $query->fetchAll(PDO::FETCH_OBJ);
+                            $cnt = 1;
+                            if ($query->rowCount() > 0) {
+                                foreach ($results as $result) {
+                            ?>
                                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                                         <div class="course-item bg-light">
                                             <div class="position-relative overflow-hidden">
@@ -146,10 +149,11 @@ include('admin/includes/config.php');
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                        <?php }
-                        }
-                        ?>
+                            <?php }
+                            }
+                            ?>
+
+                        </div>
 
                     </div>
                 </div>
